@@ -1,6 +1,10 @@
 ## 🏆 Weekly Idol Ranking (JKT48)
 
-| Rank | Foto | Nama Member | Messages | Prev Rank |
+🗓 **Periode:** 2025-12-08 07:00:00 WIB – 2025-12-14 07:00:00 WIB
+
+🔄 **Updated at:** 2025-12-19 12:25:17 WIB
+
+| # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
 | 1 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1752737821737.jpg" width="60" /> | Aralie JKT48 | 587 | 1 |
 | 2 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496471586.jpg" width="60" /> | Ekin JKT48 | 538 | 2 |
@@ -56,10 +60,3 @@
 | 52 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1763817850617.jpg" width="60" /> | Eli JKT48 | 5 | 52 |
 | 53 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/gracia jkt48/gracia jkt48.jpg" width="60" /> | Gracia JKT48 | 5 | 53 |
 | 54 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1749609705511.jpg" width="60" /> | Freya JKT48 | 2 | 54 |
-
----
-
-🗓 **Week Start:** 2025-12-08 07:00:00 WIB
-🗓 **Week End:** 2025-12-14 07:00:00 WIB
-
-🔄 **Updated at:** 2025-12-19 12:23:18 WIB
