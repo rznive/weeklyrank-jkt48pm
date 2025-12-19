@@ -33,8 +33,6 @@ jobs:
             date -u -d "$1 +7 hours" "+%Y-%m-%d %H:%M:%S WIB"
           }
 
-          echo "## 🏆 Weekly Idol Ranking (JKT48)" > README.md
-          echo "" >> README.md
           echo "🗓 **Periode:** $(to_wib "$WEEK_START") – $(to_wib "$WEEK_END")" >> README.md
           echo "" >> README.md
           echo "🔄 **Updated at:** $(to_wib "$(date -u +%Y-%m-%dT%H:%M:%S)")" >> README.md
