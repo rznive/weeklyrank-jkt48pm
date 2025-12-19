@@ -1,0 +1,61 @@
+name: Get Weekly Idol Ranking
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    env:
+      API_URL: ${{ vars.WEEKLY_RANK_API }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - run: sudo apt-get install -y jq
+
+      - run: |
+          curl -s \
+            -H "User-Agent: Dart/3.9 (dart:io)" \
+            -H "Accept: application/json" \
+            -H "Connection: keep-alive" \
+            "$API_URL" > data.json
+
+          WEEK_START=$(jq -r '.data[0].week_start' data.json)
+          WEEK_END=$(jq -r '.data[0].week_end' data.json)
+
+          to_wib () {
+            date -u -d "$1 +7 hours" "+%Y-%m-%d %H:%M:%S WIB"
+          }
+
+          echo "## 🏆 Weekly Idol Ranking (JKT48)" > README.md
+          echo "" >> README.md
+          echo "| Rank | Foto | Nama Member | Messages | Prev Rank |" >> README.md
+          echo "|------|------|-------------|----------|-----------|" >> README.md
+
+          jq -c '.data[]' data.json | while read row; do
+            RANK=$(echo "$row" | jq -r '.rank')
+            NAME=$(echo "$row" | jq -r '.name')
+            MSG=$(echo "$row" | jq -r '.messages_per_week')
+            PREV=$(echo "$row" | jq -r '.previous_rank')
+            IMG=$(echo "$row" | jq -r '.profile_image')
+
+            echo "| $RANK | <img src=\"https://production.jkt48pm.my.id$IMG\" width=\"60\" /> | $NAME | $MSG | $PREV |" >> README.md
+          done
+
+          echo "" >> README.md
+          echo "---" >> README.md
+          echo "" >> README.md
+          echo "🗓 **Week Start:** $(to_wib "$WEEK_START")" >> README.md
+          echo "🗓 **Week End:** $(to_wib "$WEEK_END")" >> README.md
+          echo "" >> README.md
+          echo "🔄 **Updated at:** $(to_wib "$(date -u +%Y-%m-%dT%H:%M:%S)")" >> README.md
+
+      - run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "chore: update weekly idol ranking" || echo "no changes"
+          git push
