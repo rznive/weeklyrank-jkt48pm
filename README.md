@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2025-12-15 07:00:00 WIB – 2025-12-21 07:00:00 WIB
 
-🔄 **Updated at:** 2025-12-21 06:39:38 WIB
+🔄 **Updated at:** 2025-12-21 07:27:54 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -27,7 +27,7 @@
 | 19 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/erine jkt48/Erine JKT48.jpg" width="60" /> | Erine JKT48 | 110 | 19 |
 | 20 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1763043739897.jpg" width="60" /> | Jessi JKT48 | 103 | 20 |
 | 21 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496870191.jpg" width="60" /> | Virgi JKT48 | 100 | 21 |
-| 22 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765734446449.jpg" width="60" /> | Daisy JKT48 | 96 | 22 |
+| 22 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1766320901914.jpg" width="60" /> | Daisy JKT48 | 96 | 22 |
 | 23 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/nachia jkt48/Nachia JKT48.jpg" width="60" /> | Nachia JKT48 | 93 | 23 |
 | 24 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/gita jkt48/gita jkt48.jpg" width="60" /> | Gita JKT48 | 83 | 24 |
 | 25 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765110800467.jpg" width="60" /> | Cathy JKT48 | 80 | 25 |
