@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2025-12-15 07:00:00 WIB – 2025-12-21 07:00:00 WIB
 
-🔄 **Updated at:** 2025-12-25 13:16:37 WIB
+🔄 **Updated at:** 2025-12-25 14:23:15 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -52,7 +52,7 @@
 | 44 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/lulu/lulu.jpg" width="60" /> | Lulu JKT48 | 28 | 44 |
 | 45 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748493990866.jpg" width="60" /> | Christy JKT48 | 23 | 45 |
 | 46 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/olla/olla.jpg" width="60" /> | Olla JKT48 | 23 | 46 |
-| 47 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1749609705511.jpg" width="60" /> | Freya JKT48 | 22 | 47 |
+| 47 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1766692091302.jpg" width="60" /> | Freya JKT48 | 22 | 47 |
 | 48 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/amanda/amanda.png" width="60" /> | Amanda JKT48 | 18 | 48 |
 | 49 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765110747895.jpg" width="60" /> | Raisha JKT48 | 17 | 49 |
 | 50 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/lyn jkt48/lyn jkt48.jpg" width="60" /> | Lyn JKT48 | 15 | 50 |
