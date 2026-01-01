@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2025-12-22 07:00:00 WIB – 2025-12-28 07:00:00 WIB
 
-🔄 **Updated at:** 2025-12-31 23:27:27 WIB
+🔄 **Updated at:** 2026-01-01 00:34:11 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -34,7 +34,7 @@
 | 26 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767089363171.jpg" width="60" /> | Daisy JKT48 | 81 | 26 |
 | 27 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1748504815987.jpg" width="60" /> | Anindya JKT48 | 76 | 27 |
 | 28 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765719636689.jpg" width="60" /> | Marsha JKT48 | 72 | 28 |
-| 29 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/ribka jkt48/Ribka JKT48.jpg" width="60" /> | Ribka JKT48 | 69 | 29 |
+| 29 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767248510392.jpg" width="60" /> | Ribka JKT48 | 69 | 29 |
 | 30 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/nala jkt48/Nala JKT48.jpg" width="60" /> | Nala JKT48 | 69 | 30 |
 | 31 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496916885.jpg" width="60" /> | Auwia JKT48 | 64 | 31 |
 | 32 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1749050823597.jpg" width="60" /> | Oniel JKT48 | 55 | 32 |
