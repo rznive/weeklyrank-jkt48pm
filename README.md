@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2025-12-22 07:00:00 WIB – 2025-12-28 07:00:00 WIB
 
-🔄 **Updated at:** 2026-01-01 05:18:43 WIB
+🔄 **Updated at:** 2026-01-01 06:43:11 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -12,7 +12,7 @@
 | 4 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1763030673741.jpg" width="60" /> | Fritzy JKT48 | 382 | 4 |
 | 5 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1763909067953.png" width="60" /> | Gracie JKT48 | 367 | 5 |
 | 6 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748497049549.jpg" width="60" /> | Giaa JKT48 | 361 | 6 |
-| 7 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1734926319300.jpg" width="60" /> | Delynn JKT48 | 309 | 7 |
+| 7 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767270443117.jpg" width="60" /> | Delynn JKT48 | 309 | 7 |
 | 8 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765126633703.jpg" width="60" /> | Lia JKT48 | 293 | 8 |
 | 9 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496507881.jpg" width="60" /> | Jemima JKT48 | 171 | 9 |
 | 10 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1746694606252.jpg" width="60" /> | Danella JKT48 | 165 | 10 |
@@ -22,12 +22,12 @@
 | 14 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496992223.jpg" width="60" /> | Rilly JKT48 | 129 | 14 |
 | 15 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/lily jkt48/Lily JKT48.jpg" width="60" /> | Lily JKT48 | 127 | 15 |
 | 16 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496541667.jpg" width="60" /> | Mikaela JKT48 | 127 | 16 |
-| 17 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/kimmy jkt48/Kimmy JKT48.jpg" width="60" /> | Kimmy JKT48 | 125 | 17 |
+| 17 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767270115752.jpg" width="60" /> | Kimmy JKT48 | 125 | 17 |
 | 18 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1748523415299.jpg" width="60" /> | Cynthia JKT48 | 116 | 18 |
 | 19 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1748500385099.jpg" width="60" /> | Lana JKT48 | 115 | 19 |
 | 20 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496870191.jpg" width="60" /> | Virgi JKT48 | 113 | 20 |
 | 21 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748494261432.jpg" width="60" /> | Ella JKT48 | 108 | 21 |
-| 22 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/nachia jkt48/Nachia JKT48.jpg" width="60" /> | Nachia JKT48 | 99 | 22 |
+| 22 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767269588534.jpg" width="60" /> | Nachia JKT48 | 99 | 22 |
 | 23 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/nayla jkt48/Nayla JKT48.jpg" width="60" /> | Nayla JKT48 | 96 | 23 |
 | 24 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/gita jkt48/gita jkt48.jpg" width="60" /> | Gita JKT48 | 93 | 24 |
 | 25 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765110800467.jpg" width="60" /> | Cathy JKT48 | 92 | 25 |
@@ -35,7 +35,7 @@
 | 27 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1748504815987.jpg" width="60" /> | Anindya JKT48 | 76 | 27 |
 | 28 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765719636689.jpg" width="60" /> | Marsha JKT48 | 72 | 28 |
 | 29 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767248510392.jpg" width="60" /> | Ribka JKT48 | 69 | 29 |
-| 30 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/nala jkt48/Nala JKT48.jpg" width="60" /> | Nala JKT48 | 69 | 30 |
+| 30 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767269923944.jpg" width="60" /> | Nala JKT48 | 69 | 30 |
 | 31 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496916885.jpg" width="60" /> | Auwia JKT48 | 64 | 31 |
 | 32 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1749050823597.jpg" width="60" /> | Oniel JKT48 | 55 | 32 |
 | 33 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1764840252013.jpg" width="60" /> | Elin JKT48 | 53 | 33 |
