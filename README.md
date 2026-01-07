@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2025-12-29 07:00:00 WIB – 2026-01-04 07:00:00 WIB
 
-🔄 **Updated at:** 2026-01-06 17:20:53 WIB
+🔄 **Updated at:** 2026-01-06 19:46:21 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -17,7 +17,7 @@
 | 9 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765719636689.jpg" width="60" /> | Marsha JKT48 | 218 | 9 |
 | 10 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/lily jkt48/Lily JKT48.jpg" width="60" /> | Lily JKT48 | 168 | 10 |
 | 11 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/nayla jkt48/Nayla JKT48.jpg" width="60" /> | Nayla JKT48 | 149 | 11 |
-| 12 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1752737821737.jpg" width="60" /> | Aralie JKT48 | 144 | 12 |
+| 12 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767748162978.jpg" width="60" /> | Aralie JKT48 | 144 | 12 |
 | 13 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1748500385099.jpg" width="60" /> | Lana JKT48 | 142 | 13 |
 | 14 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767270115752.jpg" width="60" /> | Kimmy JKT48 | 125 | 14 |
 | 15 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/levi jkt48/Levi JKT48.jpg" width="60" /> | Levi JKT48 | 120 | 15 |
