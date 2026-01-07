@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2025-12-29 07:00:00 WIB – 2026-01-04 07:00:00 WIB
 
-🔄 **Updated at:** 2026-01-07 11:26:11 WIB
+🔄 **Updated at:** 2026-01-07 12:34:04 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -40,7 +40,7 @@
 | 32 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496916885.jpg" width="60" /> | Auwia JKT48 | 74 | 32 |
 | 33 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767248510392.jpg" width="60" /> | Ribka JKT48 | 67 | 33 |
 | 34 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/muthe jkt48/muthe jkt48.jpg" width="60" /> | Muthe JKT48 | 60 | 34 |
-| 35 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1764840252013.jpg" width="60" /> | Elin JKT48 | 58 | 35 |
+| 35 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767809890060.jpg" width="60" /> | Elin JKT48 | 58 | 35 |
 | 36 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1759080652726.jpg" width="60" /> | Gendis JKT48 | 56 | 36 |
 | 37 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1749710273340.jpg" width="60" /> | Greesel JKT48 | 55 | 37 |
 | 38 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1764141072645.jpg" width="60" /> | Alya JKT48 | 45 | 38 |
