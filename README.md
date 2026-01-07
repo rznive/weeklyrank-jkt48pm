@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2025-12-29 07:00:00 WIB – 2026-01-04 07:00:00 WIB
 
-🔄 **Updated at:** 2026-01-07 03:28:28 WIB
+🔄 **Updated at:** 2026-01-07 04:25:40 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -27,7 +27,7 @@
 | 19 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496427557.jpg" width="60" /> | Maira JKT48 | 107 | 19 |
 | 20 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496541667.jpg" width="60" /> | Mikaela JKT48 | 103 | 20 |
 | 21 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496992223.jpg" width="60" /> | Rilly JKT48 | 97 | 21 |
-| 22 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767089363171.jpg" width="60" /> | Daisy JKT48 | 96 | 22 |
+| 22 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767780079829.jpg" width="60" /> | Daisy JKT48 | 96 | 22 |
 | 23 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767346847445.jpg" width="60" /> | Nachia JKT48 | 94 | 23 |
 | 24 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765110800467.jpg" width="60" /> | Cathy JKT48 | 92 | 24 |
 | 25 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767610838156.jpg" width="60" /> | Anindya JKT48 | 92 | 25 |
