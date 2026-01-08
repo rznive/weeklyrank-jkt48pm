@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2025-12-29 07:00:00 WIB – 2026-01-04 07:00:00 WIB
 
-🔄 **Updated at:** 2026-01-08 11:27:03 WIB
+🔄 **Updated at:** 2026-01-08 12:30:04 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -20,9 +20,9 @@
 | 12 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767769058694.jpg" width="60" /> | Aralie JKT48 | 144 | 12 |
 | 13 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1748500385099.jpg" width="60" /> | Lana JKT48 | 142 | 13 |
 | 14 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767270115752.jpg" width="60" /> | Kimmy JKT48 | 125 | 14 |
-| 15 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/levi jkt48/Levi JKT48.jpg" width="60" /> | Levi JKT48 | 120 | 15 |
+| 15 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767896705946.jpg" width="60" /> | Levi JKT48 | 120 | 15 |
 | 16 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1763043739897.jpg" width="60" /> | Jessi JKT48 | 119 | 16 |
-| 17 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767617335980.jpg" width="60" /> | Erine JKT48 | 118 | 17 |
+| 17 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1767894100908.jpg" width="60" /> | Erine JKT48 | 118 | 17 |
 | 18 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496802271.jpg" width="60" /> | Intan JKT48 | 116 | 18 |
 | 19 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496427557.jpg" width="60" /> | Maira JKT48 | 107 | 19 |
 | 20 | <img src="https://production.jkt48pm.my.id/static/profileImages/user/ddc1ecdd-ab65-4d4c-87ec-968a70016903/profile-img-1748496541667.jpg" width="60" /> | Mikaela JKT48 | 103 | 20 |
