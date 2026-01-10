@@ -2,7 +2,7 @@
 
 🗓 **Periode:** 2025-12-29 07:00:00 WIB – 2026-01-04 07:00:00 WIB
 
-🔄 **Updated at:** 2026-01-09 21:24:02 WIB
+🔄 **Updated at:** 2026-01-09 22:33:48 WIB
 
 | # | Foto | Nama Member | Messages/Week | Prev Rank |
 |------|------|-------------|----------|-----------|
@@ -53,7 +53,7 @@
 | 45 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1765110747895.jpg" width="60" /> | Raisha JKT48 | 22 | 45 |
 | 46 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/olla/olla.jpg" width="60" /> | Olla JKT48 | 21 | 46 |
 | 47 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1749050823597.jpg" width="60" /> | Oniel JKT48 | 18 | 47 |
-| 48 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/oline jkt48/Oline JKT48.jpg" width="60" /> | Oline JKT48 | 10 | 48 |
+| 48 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1768017247229.jpg" width="60" /> | Oline JKT48 | 10 | 48 |
 | 49 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1763817850617.jpg" width="60" /> | Eli JKT48 | 10 | 49 |
 | 50 | <img src="https://production.jkt48pm.my.id/static/profileImages/tmp/profile-img-1756781665164.jpg" width="60" /> | Indah JKT48 | 8 | 50 |
 | 51 | <img src="https://production.jkt48pm.my.id/static/profileImages/member/lulu/lulu.jpg" width="60" /> | Lulu JKT48 | 5 | 51 |
